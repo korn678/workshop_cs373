@@ -2,7 +2,7 @@
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body style="background-color:grey;">
 
-	<h>Welcome to com sci.</h>
+	<h>Welcome to com sci!</h>
 
 	<div class="w3-container" style="text-align:center; margin-top:19%;" >
 		<p>CLICK TO NEXT PAGE</p>
